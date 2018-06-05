@@ -2,15 +2,19 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+tags: [deutsch, general]
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Seit 2013 bin ich bei [Barracuda Networks](https://www.barracuda.com) als Trainer im Bereich NextGen Firewalls angestellt. Neben der Ausbildung unserer Kunden und Partner direkt vor Ort oder im Klassenzimmer, werden von mir auch Webinare abgehalten.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Im Bereich Computernetzwerke, Datenspeicherung und Sicherheit bin ich seit 2007 tätig. Gestartet als Trainer für [Fast Lane Österreich](http://www.flane.at/), schulte ich zu Beginn für die Hersteller Cisco, Ironport und NetApp.
 
-What else do you need?
+Neben dem Unterrichten bestehen meine Aufgaben auch in der Weiterentwicklung unserer Laborinfrastruktur, Kursentwicklung und Ausbildung zukünftiger Trainer.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Berufserfahrung
+* Barracuda Networks
+    * Verantwortlich für die Ausbildung und Betreung von Trainern der Authorized Training Center
+    * Technical Trainer für NextGen / CloudGen Firewall
+* Fast Lane Österreich
+    * Technical Trainer für Cisco, Ironport und NetApp
+    * IT Verantwortlicher mit Schwerpunkt Lab Development und Support
