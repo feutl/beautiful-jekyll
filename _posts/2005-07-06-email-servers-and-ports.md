@@ -9,15 +9,16 @@ Irgendwie gibt es Anwendungen die bei SSL für SMTP den Port nicht mitumstellen 
 Aus diesem Grund auch hier dies kleine PortAuflistung die mir schon öfters viel Zeit erspart hat:
 
 Email Ports:
+
 For networks, a port means an endpoint to a logical connection.
 The port number identifies what type of port it is.
 
 Here are the default ports for:
-POP3 - port 110
-IMAP - port 143
-SMTP - port 25
-HTTP - port 80
-Secure SMTP (SSMTP) - port 465
-Secure IMAP (IMAP4-SSL) - port 585
-IMAP4 over SSL (IMAPS) - port 993
-Secure POP3 (SSL-POP) - port 995
+* POP3 - port 110
+* IMAP - port 143
+* SMTP - port 25
+* HTTP - port 80
+* Secure SMTP (SSMTP) - port 465
+* Secure IMAP (IMAP4-SSL) - port 585
+* IMAP4 over SSL (IMAPS) - port 993
+* Secure POP3 (SSL-POP) - port 995

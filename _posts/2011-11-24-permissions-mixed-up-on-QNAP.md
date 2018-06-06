@@ -7,6 +7,7 @@ tags: [deutsch, technology]
 
 
 Working with AFP/SMB on your QNAP and different users and/or operating systems can mess up your file permissions. The reason therefore is pretty complicated - but the solution to fix it is much easier.
+
 So if you ever tried to delete a file and it was not possible, or a file was hidden instead of normal viewable - but all of that should work - this trick could help you.
 Login to your QNAP using SSH and use
 
