@@ -2,7 +2,6 @@
 layout: post
 title: PowerShell + Azure + The Scripting Guy
 date: 2016-06-10
-image: /img/hello_world.jpeg
 tags: [deutsch, technology]
 ---
 

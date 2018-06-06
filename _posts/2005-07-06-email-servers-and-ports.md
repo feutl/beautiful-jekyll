@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Hello World
+title: eMail Servers and Ports
 date: 2005-07-06
-image: /img/hello_world.jpeg
-tags: [deutsch, general]
+tags: [deutsch, technology]
 ---
 
 Irgendwie gibt es Anwendungen die bei SSL für SMTP den Port nicht mitumstellen wenn man die Option schon wählt. Dazu zählt MS Outlook XP. Aus diesem Grund brauch ich immer öfters die PortNummer, weil man für eine erfolgreiches Nutzen von SSL diese per Hand eintragen muss.
