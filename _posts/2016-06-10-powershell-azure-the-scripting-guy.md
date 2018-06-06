@@ -5,7 +5,11 @@ date: 2016-06-10
 tags: [deutsch, technology]
 ---
 
-[Ed Wilson ist "The Scripting Guy"](https://technet.microsoft.com/en-us/scriptcenter/dd901334.aspx) und blogged seit Jahren auf seinem [Hey, Scripting Guy! Blog](https://blogs.technet.microsoft.com/heyscriptingguy/). Vor einigen Wochen hat er sich dem Thema Azure angenommen. Seine Posts zum Thema Azure und PowerShell möchte ich hier auflisten, weil sie einfach zu gut sind um sie nicht zu verlinken :) **[Updated: 10.06.2016]**
+[Ed Wilson ist "The Scripting Guy"](https://technet.microsoft.com/en-us/scriptcenter/dd901334.aspx) und blogged seit Jahren auf seinem [Hey, Scripting Guy! Blog](https://blogs.technet.microsoft.com/heyscriptingguy/).
+
+Vor einigen Wochen hat er sich dem Thema Azure angenommen. Seine Posts zum Thema Azure und PowerShell möchte ich hier auflisten, weil sie einfach zu gut sind um sie nicht zu verlinken :)
+
+**[Updated: 10.06.2016]**
 
 ## Work with Azure Resource Manager
 
