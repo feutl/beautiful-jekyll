@@ -27,7 +27,7 @@ Private Function MyMD5Hasher(ByVal text As String) As String
 End Function
 ```
 
-## C#
+## C\#
 
 ```C#
 private string MyMD5Hasher(string text)
