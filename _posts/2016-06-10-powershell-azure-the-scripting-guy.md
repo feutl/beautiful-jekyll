@@ -3,6 +3,7 @@ layout: post
 title: PowerShell + Azure + The Scripting Guy
 date: 2016-06-10
 tags: [deutsch, technology]
+published: false
 ---
 
 [Ed Wilson ist "The Scripting Guy"](https://technet.microsoft.com/en-us/scriptcenter/dd901334.aspx) und blogged seit Jahren auf seinem [Hey, Scripting Guy! Blog](https://blogs.technet.microsoft.com/heyscriptingguy/).

@@ -3,6 +3,7 @@ layout: post
 title: Linux is not Windows
 date: 2005-10-11
 tags: [deutsch, technology]
+published: false
 ---
 
 Ein etwas übertrieben lang gehaltener, aber trotzdem gut zu lesender Artikel wurde [hier](http://linux.oneandoneis2.org/LNW.htm) veröffentlicht.
