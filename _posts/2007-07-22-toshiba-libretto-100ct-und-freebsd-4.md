@@ -3,7 +3,7 @@ layout: post
 title: Toshiba Libretto 100CT und FreeBSD 4
 date: 2007-07-22
 tags: [deutsch, technology]
-img: /img/2007/libretto-thumb.jpg
+image: /img/2007/libretto-thumb.jpg
 ---
 
 Nach langem arbeiten hab ich eine einfach Version von FreeBSD 4.11 auf meinem Libretto am Laufen. Auf Grund meiner Versuche sprang der Kollege "matze" mit auf den Zug auf und mit seinen fundierten Linux und BSD Kenntnissen erzielte er erfolge für die ich als Newbie noch einige Monate gebraucht hätte. Zusammen haben wir dann folgende Anleitung zusammengefasst um jeden die Möglichkeit zu geben seinem Libretto eine FreeBSD 4 zu verpassen

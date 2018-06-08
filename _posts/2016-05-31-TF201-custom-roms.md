@@ -3,7 +3,7 @@ layout: post
 title: TF201 - Custom Roms
 date: 2007-07-22
 tags: [deutsch, technology]
-img: /img/2016/tf201-thumb.jpg
+image: /img/2016/tf201-thumb.jpg
 ---
 
 Mein [Asus Transformer Prime (TF201)](https://www.asus.com/Tablets/Eee_Pad_Transformer_Prime_TF201/) hat nun schon 4 Jahre auf dem Buckel. Das Teil war, leider, von Anfang an ein K(r)ampf. Asus hat auf ganzer Linie versagt, nicht nur auf Software Seite sondern vor allem beim Hardware Design. Kein Wunder, dass danach sofort der TF201 durch den TF700 / TF300 ersetzt wurde.
