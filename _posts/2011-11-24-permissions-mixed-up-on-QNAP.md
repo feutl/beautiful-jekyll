@@ -9,7 +9,9 @@ Working with AFP/SMB on your QNAP and different users and/or operating systems c
 So if you ever tried to delete a file and it was not possible, or a file was hidden instead of normal viewable - but all of that should work - this trick could help you.
 Login to your QNAP using SSH and use
 
-> set_volume_mode _name_of_share_
-> ex.: set_volume_mode Qmultimedia
+```
+set_volume_mode _name_of_share_
+ex.: set_volume_mode Qmultimedia
+```
 
 All problems solved, permissions on the file system itself are corrected and you can go on with your work :)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TF201 - Custome Roms
+title: TF201 - Custom Roms
 date: 2007-07-22
 tags: [deutsch, technology]
 img: /img/2016/tf201-thumb.jpg
