@@ -46,7 +46,7 @@ persist
 ipparam heim
 ```
 7. Jetzt müssen die RoutingTables gesetzt werden damit auch der komplette Traffic an den PPTP Server geschickt wird. Dies sollte keine Nachteile haben - nicht in Geschwindigkeit noch im Bezug auf das Transfervolumen. In diesem Sinne werden die Inhalte folgender Dateien ersetzt durch:
-8. `/etc/ppp/ip-up` Die Inhalte dieses Files dienen dazu die RoutingTables beim Start der PPTP richtig zu setzen. Hier gilt es wieder das für PRIMARY sich die Werte ändern können wenn mehrer Netzwerkkarten vorhanden sind. Dies lässt sich mit ifconfig herausfinden und man trägt jenes Interface ein welches mit dem LAN es Heimes verbunden ist. Auch die IP Adresse des SERVERs könnte sich ändern - da schaut man aber einfach bei einem Windows Rechner nacht nachdem er sich eingewÃ¤hlt hat oder fragt seinen Nachbar ;)
+8. `/etc/ppp/ip-up` Die Inhalte dieses Files dienen dazu die RoutingTables beim Start der PPTP richtig zu setzen. Hier gilt es wieder das für PRIMARY sich die Werte ändern können wenn mehrer Netzwerkkarten vorhanden sind. Dies lässt sich mit ifconfig herausfinden und man trägt jenes Interface ein welches mit dem LAN es Heimes verbunden ist. Auch die IP Adresse des SERVERs könnte sich ändern - da schaut man aber einfach bei einem Windows Rechner nacht nachdem er sich eingewühlt hat oder fragt seinen Nachbar ;)
 ```bash
 #!/bin/sh
 # pppd ip-up script for all-to-tunnel routing
