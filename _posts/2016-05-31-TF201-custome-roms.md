@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diplomarbeit - Unternehmensweiter Einsatz von Legacy-Software durch Web-Technologien
+title: TF201 - Custome Roms
 date: 2007-07-22
 tags: [deutsch, technology]
 img: /img/2016/tf201-thumb.jpg
