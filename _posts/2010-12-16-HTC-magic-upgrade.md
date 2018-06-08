@@ -7,8 +7,7 @@ tags: [english, technology]
 
 After Vodafone UK released the 2.2.1 Update for the HTC Magic 32B everyone is going for it. Thats what I did as well, but a Over The Air (OTA) Update is not getting applied to a phone which is not stock.
 
-[![NTT docomo HT-03A front](https://upload.wikimedia.org/wikipedia/commons/f/f8/NTT_docomo_HT-03A_front.jpg)](https://commons.wikimedia.org/wiki/File:NTT_docomo_HT-03A_front.jpg "By HT-03android.jpg: 自分
-derivative work: Ch Th Jo (HT-03android.jpg) [Public domain], via Wikimedia Commons")
+[![NTT docomo HT-03A front](https://upload.wikimedia.org/wikipedia/commons/f/f8/NTT_docomo_HT-03A_front.jpg)](https://commons.wikimedia.org/wiki/File:NTT_docomo_HT-03A_front.jpg)
 
 Mine was running CM 6.1 with different SPL and Recovery Image - therefore I tried more or less everything to get back to Stock 1.6 Donute Version which was shipped with the HTC Magic with Google!
 
