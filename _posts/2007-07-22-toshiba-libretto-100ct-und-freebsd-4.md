@@ -86,7 +86,7 @@ Man braucht für Windows natürlich wieder ein extra Tool: [fdimage](ftp://ftp6.
 `fdimage.exe kern.flp a:`
 
 #### Linux
-' dd if=/kern.flp bs=18k of=/dev/fd0' 
+`dd if=/kern.flp bs=18k of=/dev/fd0`
 
 ### FreeBSD
 `dd if=floppies/kern.flp of=/dev/rfd0`
@@ -474,8 +474,10 @@ device apm</pre>
 * XFCE4 - Desktop Environment
 Hinweis zur Konfiguration:
 .xinitrc im Home Verzeichnis der Benutzers anlegen und folgendes einfügen:
-`export LC_ALL=de_DE.ISO-8859-15 export LANG=de_DE.ISO-8859-15`
-`exec startxfce4`
+```
+export LC_ALL=de_DE.ISO-8859-15 export LANG=de_DE.ISO-8859-15
+exec startxfce4
+```
 *   Fluxbox - WindowManager
 *   MC-light - Dateimanager nicht nur auf der Konsole
 *   aterm - Eine Terminal Emulation als Ersatz für xfterm4
