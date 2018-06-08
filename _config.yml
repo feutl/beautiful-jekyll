@@ -24,6 +24,7 @@ description: … works for Barracuda Networks AG … lives in Wiener Neudorf …
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Tag Index: "tags"
   Resources:
     - Barracuda Networks: "http://www.barracudanetworks.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -91,7 +92,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   google: false
   linkedin: false
