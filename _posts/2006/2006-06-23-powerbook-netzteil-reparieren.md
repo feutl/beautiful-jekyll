@@ -2,6 +2,8 @@
 layout: post
 title: PowerBook Netzteil reparieren
 date: 2006-06-23
+bigimg: /img/2006/repaired-power-supply.jpg
+image: /img/2006/repaired-power-supply-thumb.jpg
 tags: [deutsch, technology]
 ---
 
