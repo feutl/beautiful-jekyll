@@ -49,4 +49,4 @@ private string MyMD5Hasher(string text)
 }
 ```
 
-Wer MD5 / SHA1 Hashes mit Java erzeugen will findet auch in meinem Blog die Antwort [MD5 / SHA1 Hashes erzeugen mit JAVA](http://blog.gotchi.at/index.php?/archives/81-MD5-SHA1-Hashes-erzeugen-mit-JAVA.html)
+Wer MD5 / SHA1 Hashes mit Java erzeugen will findet auch in meinem Blog die Antwort {{ site.baseurl }}{% post_url /2006/2006/2006-04-08-md5-sha1-hashes-fuer-windows_applications-in-net %}
