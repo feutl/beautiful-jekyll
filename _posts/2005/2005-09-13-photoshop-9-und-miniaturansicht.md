@@ -24,4 +24,4 @@ Windows Registry Editor Version 5.00
 ```
 5. Und normalerweise sollte nun alles klappen.
 
-Für ein englisches Windows XP ist es nötig die Pfade dementsprechend anzupassen. Weiters kommt es auch manchmal vor das ein paar PSDs eine Vorschau erzeugen und manche nicht - hierzu einfach unter Photoshop die Kompatibilität von PSD- und PSB-Dateien maximieren und die Bilder neue speichern. Für alle CS User mit dem selbem Problem gibts hier die Lösung: 
+Für ein englisches Windows XP ist es nötig die Pfade dementsprechend anzupassen. Weiters kommt es auch manchmal vor das ein paar PSDs eine Vorschau erzeugen und manche nicht - hierzu einfach unter Photoshop die Kompatibilität von PSD- und PSB-Dateien maximieren und die Bilder neue speichern. Für alle CS User mit dem selbem Problem gibts hier die Lösung: {% post_url /2005/2005-09-13-photoshop-9-und-miniaturansicht %}
