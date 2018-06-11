@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\SharedDLLs]
+"C:\\Programme\\Gemeinsame Dateien\\Adobe\\Shell\\psicon.dll"=dword:00000001
+[HKEY_CLASSES_ROOT\.psd\ShellEx]
+[HKEY_CLASSES_ROOT\.psd\ShellEx\{BB2E617C-0920-11d1-9A0B-00C04FC2D6C1}]
+@="{0B6DC6EE-C4FD-11d1-819A-00C04FB69B4D}"
+[HKEY_CLASSES_ROOT\CLSID\{0B6DC6EE-C4FD-11d1-819A-00C04FB69B4D}]
+@="Photoshop Icon Handler"
+[HKEY_CLASSES_ROOT\CLSID\{0B6DC6EE-C4FD-11d1-819A-00C04FB69B4D}\InProcServer32]
+@="C:\\Programme\\Gemeinsame Dateien\\Adobe\\Shell\\psicon.dll"
+"ThreadingModel"="Apartment"
