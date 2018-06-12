@@ -3,6 +3,7 @@ layout: post
 title: Reclaim disk space after Windows 7 SP1 installation
 date: 2011-11-16
 tags: [english, technology]
+permalink: /reclaim-disk-space-after-windows-7-sp1-installation/
 ---
 
 Did you ever heard about the WINSXS folder on your system? If not, it is now a good time to check the size of it. A few GB of disk space are used for a folder nobody knows why it is there at all. 

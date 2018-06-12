@@ -3,6 +3,7 @@ layout: post
 title: Unterschiede zwischen OVF, OVA und VMDK
 date: 2018-05-30
 tags: [deutsch, technology]
+permalink: /unterschiede-zwischen-ovf-ova-und-vmdk/
 ---
 
 Immer wieder kommen Besucher vorbei um 2 Posts aus 2011 anzusehen. Anscheinend dürften die Probleme noch nicht ganz behoben sein oder auch immer wieder einmal auftreten. Im Speziellen handelt es sich um die Handhabung von OVA und OVF Dateien.

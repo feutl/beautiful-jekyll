@@ -3,6 +3,7 @@ layout: post
 title: The following signatures couldn't be verified because the public key is not available
 date: 2013-03-05
 tags: [english, technology]
+permalink: /the-following-signatures-couldnt-be-verified-because-the-public-key-is-not-available/
 ---
 
 Ubuntu is nice to use, it works flawlessly on most systems. Especially the packet management is awesome and therefore I wanna say thanks to Debians developers for that. 

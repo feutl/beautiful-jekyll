@@ -3,6 +3,7 @@ layout: post
 title: The OVA Package Name does not match the OVF File inside it
 date: 2011-08-29
 tags: [english, technology]
+permalink: /the-ova-package-name-does-not-match-the-ovf-file-inside-it/
 ---
 
 Downloaded a OVA file and tried to import it into my VMWare Workstation and if something can go wrong - it does.

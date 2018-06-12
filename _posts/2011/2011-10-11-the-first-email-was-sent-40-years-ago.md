@@ -3,6 +3,7 @@ layout: post
 title: The first email was sent 40 years ago this month
 date: 2011-10-11
 tags: [english, technology]
+permalinkg: /the-first-email-was-sent-40-years-ago-this-month/
 ---
 
 > It’s become a firm fixture of everyday life, loathed by some but essential to nearly all of us, and yet its future is far from certain. Email is forty years old this month, with the first message having been sent in October 1971.

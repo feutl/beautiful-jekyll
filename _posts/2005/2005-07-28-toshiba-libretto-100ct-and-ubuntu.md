@@ -4,6 +4,7 @@ title: Toshiba Libretto 100CT & Ubuntu
 date: 2005-07-28
 image: /img/2007/libretto-thumb.jpg
 tags: [deutsch, technology]
+permalink: /toshiba-libretto-100ct-ubuntu/
 ---
 
 Vor einer kleinen Ewigkeit hat ein [BSD-Foren.de](http://www.bsd-foren.de/) Kollege und ich versucht eine Anleitung zu verfassen um auf einem Libretto 100CT ein Unixoides OS ans Laufen zu bringen. Mein persönliches Ziel war, ohne Nutzung eines 2t PCs oder externen Laufwerken das OS zu installieren.

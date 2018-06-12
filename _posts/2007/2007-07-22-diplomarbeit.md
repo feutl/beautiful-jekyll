@@ -3,7 +3,7 @@ layout: post
 title: Diplomarbeit - Unternehmensweiter Einsatz von Legacy-Software durch Web-Technologien
 date: 2007-07-22
 tags: [deutsch, technology]
-published: false
+permalink: /unternehmensweiter-einsatz-von-legacy-software-durch-web-technologien/
 ---
 
 ### Kurzfassung Deutsch
@@ -19,12 +19,3 @@ This paper addresses the advantages and disadvantages of web technologies used i
 Functionality and Richness, both, are connected to the used technologies. There are a lot of influencing factors such as the amount of users, company philosophy, used devices, mobility and many more, which makes the decision a misery. Dozens of available technologies do not make it easier. You can choose from various technologies like .NET, C#, VB.Net, JAVA, C++ and many more to create client applications. PHP, JSP, WebServices, AJAX, XML, ASP.Net, Flash are only a small part of available technologies for developing web applications. Last but not least, there are those, so called, smart clients which are hybrids of both worlds, web and client.
 
 Nevertheless, the future will merge both worlds and the question about richness and functionality is not a decision of the adopted technology. But these days, firms often come to the wrong decision and do not achieve their goals by using web technologies. Most of the time, decision-makers are not aware of the issues concerning the flexibility, agility and possibilities of web application technologies. Choosing client application technologies would have brought better results. But to reach the right decision it is necessary to understand the pros and cons of both worlds. Perhaps a combination of both worlds fits best, at the end of the day
-
-
-> __Hinweis:__ Needs to be fixed
-### Download
-* Unternehmensweiter Einsatz von Legacy-Software durch Web-Technologien 
-    * [PDF [1,9 MB]](/uploads/diplomarbeit/DA.pdf) unter Creative Commons
-* Präsentation zur Diplomarbeit als
-    * [MOV [16,5 MB]](http://blog.gotchi.at/uploads/diplomarbeit/DA%20Keynote.mov)
-    * [PDF [4,5 MB]](http://blog.gotchi.at/uploads/diplomarbeit/DA%20Keynote.pdf)

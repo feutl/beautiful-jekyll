@@ -3,6 +3,7 @@ layout: post
 title: Transparente PNGs auch im IE
 date: 2006-09-17
 tags: [deutsch, technology]
+permalink: /transparente-pngs-auch-im-ie/
 ---
 
 Viele kennen vielleicht das Problem das Microsoft es bis jetzt nicht geschafft hat den Alpha Kanal, welcher für die Transparenz von Bildern nötig ist, nativ im Internet Explorer zu verankern. Was Microsoft aber gemacht hat, ist einen Style für CSS einzubauen der nur vom Internet Explorer verstanden wird um so eine stufenlose Transparenz zu erreichen. 

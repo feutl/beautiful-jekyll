@@ -4,6 +4,7 @@ title: Toshiba Libretto 100CT & Ubuntu Part 2
 date: 2005-07-28
 image: /img/2007/libretto-thumb.jpg
 tags: [deutsch, technology]
+permalink: /toshiba-libretto-100ct-ubuntu-part-2/
 ---
 
 Das Ziel für heute ist geschafft. Der Windowmanager [fvwm](http://www.fvwm.org/) läuft. Die Auflösung passt und der externe Monitor wird auch mit angesteuert. Einzige Software die ich installiert habe heute war `xterm`. Ich hab keine weiteren Konfigurationen am WM durchgeführt, weils mir einfach viel zu heiß in meinem Arbeitszimmer ist.
