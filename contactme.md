@@ -1,5 +1,3 @@
-<html>
-<body>
 ---
 layout: page
 title: Contact Me
@@ -11,9 +9,6 @@ tags: [deutsch, personal]
     <p>Email: <input type="email" name="_replyto"></p>
     <p>Message: <input type="textarea" name="message"></p>
     <p><input type="submit" value="Send"></p>
-    <input type=”hidden” name=”_next” value=”//blog.feutl.com” />
-    <input type=”hidden” name=”_subject” value=”New submission! From blog.feutl.com” />
-</form> 
-
-</body>
-</html>
+    <input type="hidden" name="_next" value="//blog.feutl.com" />
+    <input type="hidden" name="_subject" value="New submission From blog.feutl.com" />
+</form>
