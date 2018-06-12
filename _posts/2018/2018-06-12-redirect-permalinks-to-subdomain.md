@@ -21,14 +21,14 @@ But the real live saver was the online [.htaccess rewrite rules tester](https://
 
 ## Problem
 This are some of the URLs which needed to be rewritten
-| url | rewrite |
-|-----|---------|
-| www.feutl.com | www.feutl.com|
-| feutl.com | feutl.com|
-| www.feutl.com/ | www.feutl.com/ |
-| www.feutl.com/permalink/ | blog.feutl.com/permalink/ |
-| www.feutl.com/permalink | www.feutl.com/permalink |
-| www.feutl.com/blog/ | blog.feutl.com |
+url | rewrite 
+----|--------
+www.feutl.com | www.feutl.com
+feutl.com | feutl.com
+www.feutl.com/ | www.feutl.com/ 
+www.feutl.com/permalink/ | blog.feutl.com/permalink/ 
+www.feutl.com/permalink | www.feutl.com/permalink 
+www.feutl.com/blog/ | blog.feutl.com 
 
 ## Solution
 ```htaccess
