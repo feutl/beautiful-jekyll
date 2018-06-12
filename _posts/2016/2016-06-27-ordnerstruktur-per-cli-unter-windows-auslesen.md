@@ -3,6 +3,7 @@ layout: post
 title: Ordnerstruktur per CLI unter Windows auslesen
 date: 2016-06-27
 tags: [deutsch, technology]
+permalink: /ordnerstruktur-per-cli-unter-windows-auslesen/
 ---
 
 Immer wieder benötigt man die Ordnerstruktur und die darin abgelegten Dateien als einfachen Text. Entweder um die Liste der Inhalte per eMail weiterzuleiten oder sie als einfachen Text abzuspeichern. Windows bietet einem mehrere Möglichkeiten dies zu erreichen.
