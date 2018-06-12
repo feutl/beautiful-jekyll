@@ -26,10 +26,10 @@ url | rewrite
 ----|--------
 www.feutl.com | www.feutl.com
 feutl.com | feutl.com
-www.feutl.com/ | www.feutl.com/ 
-www.feutl.com/permalink/ | blog.feutl.com/permalink/ 
-www.feutl.com/permalink | www.feutl.com/permalink 
-www.feutl.com/blog/ | blog.feutl.com 
+www.feutl.com/ | www.feutl.com/
+www.feutl.com/permalink/ | blog.feutl.com/permalink/
+www.feutl.com/permalink | www.feutl.com/permalink
+www.feutl.com/blog/ | blog.feutl.com
 
 ## Solution
 ```htaccess
