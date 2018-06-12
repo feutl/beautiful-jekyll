@@ -1,3 +1,5 @@
+<html>
+<body>
 ---
 layout: page
 title: Contact Me
@@ -12,3 +14,6 @@ tags: [deutsch, personal]
     <input type=”hidden” name=”_next” value=”//blog.feutl.com” />
     <input type=”hidden” name=”_subject” value=”New submission! From blog.feutl.com” />
 </form> 
+
+</body>
+</html>
