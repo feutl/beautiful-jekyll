@@ -4,6 +4,7 @@ title: Dynamisches DNS mit Duck DNS und Barracuda NextGen Firewall F
 date: 2016-05-07
 tags: [deutsch, technology, barracuda]
 bigimg: /img/2016/duckdns-header.png
+permalink: /dynamisches-dns-mit-duck-dns-und-barracuda-nextgen-firewall-f/
 ---
 
 ## Was ist DDNS?

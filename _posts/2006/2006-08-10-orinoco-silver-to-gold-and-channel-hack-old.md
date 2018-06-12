@@ -3,6 +3,7 @@ layout: post
 title: ORiNOCO Silver to Gold and Channel Hack (old version)
 date: 2006-08-10
 tags: [english, technology]
+permalink: /orinoco-silver-to-gold-and-channel-hack-old-version/
 ---
 
 [Link zur original Site](http://www.andrewhakman.dhs.org/orinoco/)

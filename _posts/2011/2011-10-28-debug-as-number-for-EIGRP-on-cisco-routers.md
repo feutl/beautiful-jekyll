@@ -3,6 +3,7 @@ layout: post
 title: Debug AS number for EIGRP on Cisco Routers
 date: 2011-10-28
 tags: [english, technology, cisco]
+permalink: /debug-as-number-for-eigrp-on-cisco-routers/
 ---
 
 If you have ever wondered how to find out an AS number of an existing EIGRP process, this is the article answering it. It is simple to get the information if you have access to the router - but what to do if you do not have access and want to join the EIGRP process with a new router.

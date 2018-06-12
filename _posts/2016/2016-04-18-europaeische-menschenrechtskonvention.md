@@ -3,6 +3,7 @@ layout: post
 title: Europäische Menschenrechtskonvention
 date: 2016-04-18
 tags: [deutsch, general]
+permalink: /europaische-menschenrechtskonvention/
 ---
 
 Und damit nehme ich meinen digitalen Fußabdruck wieder in meine eigene Hand und hoffe, eine Suche nach mir führt den Suchenden eher auf meine eigene Seite als auf Posts und Fotos welche von anderen online gestellt wurden.

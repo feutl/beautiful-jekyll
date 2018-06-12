@@ -3,6 +3,7 @@ layout: post
 title: Automatisch, zentriertes Zuschneiden des Featured Image bei Wordpress
 date: 2016-04-30
 tags: [deutsch, technology]
+permalink: /automatisch-zentriertes-zuschneiden-des-featured-image-bei-wordpress/
 ---
 
 Das original Wordpress Theme [Twenty Sixteen](https://wordpress.org/themes/twentysixteen/) verwendet ein [Featured Image](https://codex.wordpress.org/Post_Thumbnails) über jedem Blog Eintrag, wenn auch ein Bild gesetzt wurde. Wer nun zu faul ist dieses Bild vorweg zurechtzuschneiden, damit man nicht ewig zum Text scrollen muss, kann sich die Arbeit von etwas CSS abnehmen lassen.

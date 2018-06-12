@@ -3,6 +3,7 @@ layout: post
 title: Permissions mixed up on QNAP
 date: 2011-11-24
 tags: [deutsch, technology]
+permalink: /permissions-mixed-up-on-qnap/
 ---
 Working with AFP/SMB on your QNAP and different users and/or operating systems can mess up your file permissions. The reason therefore is pretty complicated - but the solution to fix it is much easier.
 

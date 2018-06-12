@@ -3,6 +3,7 @@ layout: post
 title: Error opening nvram:/startup-config (Unknown error 0)
 date: 2008-10-17
 tags: [english, technology, cisco]
+permalink: /error-opening-nvramstartup-config-unknown-error-0/
 ---
 
 `%Error opening nvram:/startup-config (Unknown error 0)`

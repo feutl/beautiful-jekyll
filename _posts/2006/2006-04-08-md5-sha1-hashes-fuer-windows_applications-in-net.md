@@ -3,6 +3,7 @@ layout: post
 title: MD5 / SHA1 Hashes für WindowsApplications in .NET
 date: 2006-04-28
 tags: [deutsch, technology]
+permalink: /md5-sha1-hashes-fur-windowsapplications-in-net/
 ---
 
 Für Windows Applications mittels .NET ist es bei weitem nicht so einfach einen MD5 / SHA1 Hash zu erzeugen wie für ASP.NET Projects. Nach ein bißchen Zeit, lesen und probieren hab ichs dann doch geschafft und hier gibts die Function:
@@ -49,4 +50,4 @@ private string MyMD5Hasher(string text)
 }
 ```
 
-Wer MD5 / SHA1 Hashes mit Java erzeugen will findet auch in meinem Blog die Antwort [MD5 / SHA1 Hashes erzeugen mit JAVA](/2006-01-26-md5-sha1-hashes-erzeugen-mit-java/)
+Wer MD5 / SHA1 Hashes mit Java erzeugen will findet auch in meinem Blog die Antwort [MD5 / SHA1 Hashes erzeugen mit JAVA](/md5-sha1-hashes-erzeugen-mit-java/)

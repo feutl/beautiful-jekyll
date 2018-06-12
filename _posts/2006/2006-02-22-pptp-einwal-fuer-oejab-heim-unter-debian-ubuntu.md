@@ -3,6 +3,7 @@ layout: post
 title: PPTP Einwahl für ÖJAB Heim unter Debian & Ubuntu
 date: 2006-02-22
 tags: [deutsch, technology]
+permalink: /pptp-einwahl-fur-ojab-heim-unter-debian-ubuntu/
 ---
 
 Viele Leute verwenden für die Interneteinwahl in ÖJAB Heimen ein Tool genannt [PPTP Client](http://pptpclient.sourceforge.net/), ein ziemlich nettes Tool, doch wie installiert man dieses wenn es nicht auf der Installations-CD mitgeliefert wurde. Naja man fügt ein Repository hinzu und lässt "apt-get" oder "aptitude" die Arbeit machen - doch ohne INTERNET ????

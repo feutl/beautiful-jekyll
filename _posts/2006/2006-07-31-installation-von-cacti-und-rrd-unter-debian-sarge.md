@@ -3,6 +3,7 @@ layout: post
 title: Installation von Cacti & RRD unter Debian Sarge [Single Server]
 date: 2006-07-31
 tags: [deutsch, technology]
+permalink: /installation-von-cacti-rrd-unter-debian-sarge-single-server/
 ---
 
 Entschieden hab ich mich für Cacti, RRD und SNMP. SNMP ist auch lokal sehr brauchbar um Dienste, Services und andere Parameter abzufragen. Das ganze hab ich direkt aus dem Debian Source installiert - zwar bekommt man hier nicht die neueste Version und man kann auch nicht ganz so einfach verschieden Patches einspielen, aber mir war wichtig das ich ein stabiles System habe. Weiters sollten auch alle Abhängigkeiten aufgelöst werden und was am wichtigsten war - Updates sollen automatisch eingespielt werden, man verliert ja zu schnell den Überblick.

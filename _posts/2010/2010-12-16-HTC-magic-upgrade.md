@@ -3,6 +3,7 @@ layout: post
 title: HTC Magic upgrade to 2.2.1 A1 Mobilkom / Vodafone
 date: 2010-12-16
 tags: [english, technology]
+permalink: /htc-magic-upgrade-to-2-2-1-a1-mobilkom-vodafone/
 ---
 
 After Vodafone UK released the 2.2.1 Update for the HTC Magic 32B everyone is going for it. Thats what I did as well, but a Over The Air (OTA) Update is not getting applied to a phone which is not stock.

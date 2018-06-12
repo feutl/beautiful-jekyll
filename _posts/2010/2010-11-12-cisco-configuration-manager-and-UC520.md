@@ -4,6 +4,7 @@ title: Cisco Configuration Manager and UC520
 date: 2011-11-12
 tags: [english, technology, cisco]
 image: /img/2007/cisco.gif
+permalink: /cisco-configuration-manager-and-uc520/
 ---
 
 After downloading the newest version of [Ciscos Configuration Manager](https://supportforums.cisco.com/docs/DOC-10988) and all the updated packages for the UC520 I started the upgrade process for the [Unified Communications 520 for Small Business](http://www.cisco.com/en/US/prod/collateral/voicesw/ps6788/vcallcon/ps7293/product_data_sheet0900aecd8061fb06.html). I wasn't surprised when the first error messages came up, because those things never work that smoothly.

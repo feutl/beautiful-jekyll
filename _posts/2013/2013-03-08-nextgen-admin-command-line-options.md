@@ -4,6 +4,7 @@ title: NextGen Admin Command Line Options
 date: 2013-03-08
 tags: [english, technology, barracuda]
 image: /img/2013/nextgen-admin.png
+permalink: /ngadmin-command-line-options/
 ---
 
 Sometimes the Command Line can get very useful - therefor it is good to know which parameters can be used. NextGen Admin, formerly known as NG Admin, has some nice CLI options.

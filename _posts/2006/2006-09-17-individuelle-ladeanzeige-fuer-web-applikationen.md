@@ -3,6 +3,7 @@ layout: post
 title: Individuelle Ladeanzeige für Web Applikationen
 date: 2006-09-17
 tags: [deutsch, technology]
+permalink: /individuelle-ladeanzeige-fur-web-applikationen/
 ---
 
 Wer sich mit Web Applikationen beschäftigt kommt später oder eher früher nicht herum mehr Usability einzubauen. Das heißt neben vielen anderen Dingen auch, dass man die Kommunikation mit seiner Web Applikation und dem User ausbauen muss. Der User muss erfahren was gerade passiert oder warum nichts passiert, wenn er einen Butten klickt.

@@ -3,6 +3,7 @@ layout: post
 title: MD5 / SHA1 Hashes erzeugen mit JAVA
 date: 2006-01-26
 tags: [deutsch, technology]
+permalink: /md5-sha1-hashes-erzeugen-mit-java/
 ---
 
 Während [Florian](http://blog.no-panic.at) und ich an unserem Projekt gearbeitet haben, welches in Kürze das Licht der großen WWWelt erblicken wird (also freut euch schon mal), musste ein Lösung her um MD5 bzw. SHA1 Hashes mit Java zu erzeugen. In PHP wie auch im .NET Framework funktionert das mehr oder weniger sehr einfach. Java ist da doch etwas anders und nach einiger Zeit im Netz suchend, habe ich dann doch die nötigen Infos gefunden um die folgende Klasse zusammenzubaun.

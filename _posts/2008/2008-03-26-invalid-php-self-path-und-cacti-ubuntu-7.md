@@ -3,6 +3,7 @@ layout: post
 title: Invalid PHP_SELF Path & Cacti & Ubuntu 7.10
 date: 2008-03-26
 tags: [deutsch, technology]
+permalink: /invalid-php_self-path-cacti-ubuntu-710/
 ---
 
 Wenn nach der Installation oder Update Cacti mit oben genannten Error aufwartet hilft das Anpassen der `/usr/share/cacti/site/include/config.php`

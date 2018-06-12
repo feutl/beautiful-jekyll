@@ -3,6 +3,7 @@ layout: post
 title: Most important table to pass CCNA
 date: 2008-01-23
 tags: [deutsch, technology]
+permalink: /most-important-table-to-pass-ccna/
 ---
 
 msk | mbt | sbn | hst | wmk

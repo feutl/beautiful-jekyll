@@ -3,6 +3,7 @@ layout: post
 title: Photoshop 8 & Miniaturansicht
 date: 2005-03-21
 tags: [deutsch, technology]
+permalink: /photoshop-8-miniaturansicht/
 ---
 
 Ich hab mich heute geärgert, dass der Windows Explorer unter WinXP auf einmal keine Miniaturansichten von PSD Files darstellen kann. Nach langem suchen im Internet hab ichs gefunden:

@@ -3,6 +3,7 @@ layout: post
 title: Cacti - Passwords do not match, please retype.
 date: 2009-04-24
 tags: [english, technology]
+permalink: /cacti-passwords-do-not-match-please-retype/
 ---
 
 With the message `Error: Passwords do not match, please retype.` Cacti tried to make my life horrible today, but not with me. 

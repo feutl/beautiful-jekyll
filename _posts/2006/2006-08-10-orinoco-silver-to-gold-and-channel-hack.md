@@ -3,6 +3,7 @@ layout: post
 title: ORiNOCO Silver to Gold and Channel Hack (with Alchemy)
 date: 2006-08-10
 tags: [english, technology]
+permalink: /orinoco-silver-to-gold-and-channel-hack-with-alchemy/
 ---
 
 ## DISCLAIMER

@@ -3,6 +3,7 @@ layout: post
 title: Chatten auf Cisco Routern
 date: 2008-04-24
 tags: [deutsch, technology]
+permalink: /chatten-auf-cisco-routern/
 ---
 
 Auf Cisco Routern können sich mehrere User gleichzeitig einloggen. Die Konsole und Virtuelle Terminal Lines machen es möglich, doch wie schafft man es diesen angemeldeten Usern mitzuteilen das z.B. ein Router neu gestartet werden muss bzw. wie teilt man ihnen einfach und schnell etwas mit?

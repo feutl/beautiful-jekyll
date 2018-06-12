@@ -3,6 +3,7 @@ layout: post
 title: Photoshop 9 (CS2) & Miniaturansicht
 date: 2005-09-13
 tags: [deutsch, technology]
+permalink: /photoshop-9-cs2-miniaturansicht/
 ---
 
 Sodale nachdem das Miniaturansichts Problem für den Explorer sich mit der Installation von CS2 erneut aufgerollt hat und es viele Leute gibt die hier eine Lösung suchen hab ich mich auch mal auf die Suche gemacht. Leider ist in deutschsprachigen Foren wenig zu finden also gings auf nach Übersee :D Und ich hab eine Lösung gefunden:

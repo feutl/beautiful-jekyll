@@ -3,6 +3,7 @@ layout: post
 title: PNG Farbunterschiede im Web - einfache Lösung
 date: 2007-05-03
 tags: [deutsch, technology]
+permalink: /png-farbunterschiede-im-web-einfache-losung/
 ---
 
 Zu aller erst sollte erwähnt werden, dass dies eine schnelle und einfach Lösung darstellt wenn du deine PNG Dateien mit Photoshop gespeichert hast und noch immer zugriff auf eine Version hast. Unter Umständen kann man diese Lösung auch mit anderen Bildbeartbeitunstools vollziehen doch bezieht sich die Anleitung hier auf Photoshop CS2.
