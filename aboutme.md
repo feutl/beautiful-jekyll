@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
-tags: [deutsch, general]
+subtitle: … works for Barracuda Networks AG … lives in Wiener Neudorf …
+tags: [deutsch, personal]
 ---
 
 Seit 2013 bin ich bei [Barracuda Networks](https://www.barracuda.com) als Trainer im Bereich NextGen Firewalls angestellt. Neben der Ausbildung unserer Kunden und Partner direkt vor Ort oder im Klassenzimmer, werden von mir auch Webinare abgehalten.
@@ -20,8 +20,8 @@ Neben dem Unterrichten bestehen meine Aufgaben auch in der Weiterentwicklung uns
     * IT Verantwortlicher mit Schwerpunkt Lab Development und Support
 
 # Impressum
+```text
 Herbert Feutl
-
 2351 Wiener Neudorf
-
 Österreich
+```
