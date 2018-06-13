@@ -10,9 +10,7 @@ gh-badge: star
 
 After being unable to _Stop after Upload_ a backup job in [Duplicati](https://www.duplicati.om) on a QNAP, forcing the job to _Stop_ was necessary. This locked the database and restarting the backup job was impossible. This was the resulting error message:
 
-```
-The database file is locked.
-```
+`The database file is locked.`
 
 The [Duplicati Forum](https://forum.duplicati.com/t/the-database-file-is-locked-after-stopping-backup-job/3761) was the last resort for help.
 
@@ -37,6 +35,7 @@ The [Duplicati Forum](https://forum.duplicati.com/t/the-database-file-is-locked-
 Able to start the backup again, it ended with another error giving me a list of files stored on the remote location. The backup was not successful, repairing the database for the backup job was my next best guess - which resulted in another error.
 
 `2018-06-11 13:25:17 +02 - [Error-Duplicati.Library.Main.Operation.RepairHandler-CleanupMissingFileError]: Failed to perform cleanup for missing file: duplicati-b58bcb8fcefe141a2ba3a92aea3497758.dblock.zip.aes, message: Repair not possible, missing 582 blocks.`
+
 `If you want to continue working with the database, you can use the "list-broken-files" and "purge-broken-files" commands to purge the missing data from the database and the remote storage.`
 
 The hint in the error message led me to the two additional comments I could use to work around the error and get the backup job running again.
@@ -45,7 +44,7 @@ The hint in the error message led me to the two additional comments I could use 
 1. Export the backup job to command line
 2. Replace the `backup`command with `list-broken-files` and/or `purge-broken-files` respectively.
     * Command Line example on a QNAP
-    
+
     `/opt/Qmono/bin/mono /share/CACHEDEV1_DATA/.qpkg/Duplicati/Duplicati/Duplicati.CommandLine.exe purge-broken-files "ssh://172.16.10.10:22//mnt/data/?auth-username=user&auth-password=user&ssh-fingerprint=ssh-rsa%" --backup-name=data --dbpath=/share/CACHEDEV1_DATA/.qpkg/Duplicati/.config/Duplicati/PJISXRFXEA.sqlite`
 3. Rerun the backup itself
 
