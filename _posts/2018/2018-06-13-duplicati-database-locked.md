@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Duplicati - The database file is locked
-date: 2018-06-12
+date: 2018-06-13
 tags: [english, technology]
-published: false
 image: /img/2018/duplicati.png
 gh-repo: duplicati/duplicati
 gh-badge: star
