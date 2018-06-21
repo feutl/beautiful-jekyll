@@ -19,7 +19,7 @@ The [Duplicati Forum](https://forum.duplicati.com/t/the-database-file-is-locked-
 2. Search for the `dpath` entry
 3. Use `lsof` to find the processes locking the database
 
-    `lsof "/share/CACHEDEV1_DATA/.qpkg/Duplicati/.config/Duplicati/PJISXRFXEA.sqlite`
+    `lsof "/share/CACHEDEV1_DATA/.qpkg/Duplicati/.config/Duplicati/PJISXRFXEA.sqlite"`
     
     * The output shows you the process and the process IDs, which can be used to restart or kill the service
 
