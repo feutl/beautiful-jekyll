@@ -36,7 +36,7 @@ This is not being used, because I needed to have the option to mount SMB/CIFS sh
 ## NFS Datastore
 I am using a NAS via NFS as a datastore
 
-* [Change data directory to use another disk partition](https://github.com/nextcloud/nextcloud-snap/wiki/Change-data-directory-to-use-another-disk-partition)
+* [Change data directory to use another disk partition](https://github.com/nextcloud/nextcloud-snap/wiki/Change-data-directory-to-use-another-disk-partition)\\
 Even though I am not using the nextcloud snap, the information is still useful
 * [Setting Up NFS](https://help.ubuntu.com/community/SettingUpNFSHowTo)\\
 I am using NFS instead of SMB mounts because it was just easier to setup\\
@@ -53,8 +53,7 @@ I changed this to cron (daemon). Nextclouds webinterface is not accessed that of
 ## WebDAV
 I am using WebDAV to migrate data from the old way data was synced and stored to Nextcloud. The data gets immediately recognized and no OCC scripts need to be executed.
 
-* [Accessing Nextcloud files using WebDAV](https://docs.nextcloud.com/server/13/user_manual/files/access_webdav.html)
-
+* [Accessing Nextcloud files using WebDAV](https://docs.nextcloud.com/server/13/user_manual/files/access_webdav.html)\\
 `net use Z: \\example.com@ssl\nextcloud\remote.php\dav /user:youruser yourpassword`
 
 * [File Operations](https://docs.nextcloud.com/server/13/admin_manual/configuration_server/occ_command.html#file-operations-label)\\
