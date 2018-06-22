@@ -29,8 +29,7 @@ Ubuntu and Nextcloud
 * [Installing Nextcloud on Ubuntu 16.04 LTS+ with Redis, APCu, SSL & Apache](https://bayton.org/docs/nextcloud/installing-nextcloud-on-ubuntu-16-04-lts-with-redis-apcu-ssl-apache/)
 * [How To Install and Configure Nextcloud on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-nextcloud-on-ubuntu-16-04)
 * [How to Install NextCloud Server on Ubuntu 16.04](https://www.youtube.com/watch?v=nXr_muYB6xI)
-* [Snappy Nextcloud](https://github.com/nextcloud/nextcloud-snap)
-
+* [Snappy Nextcloud](https://github.com/nextcloud/nextcloud-snap)\\
 This is not being used, because I needed to have the option to mount SMB/CIFS shares, and this is not supported with the nextcloud snap yet.
 
 # Configuration
@@ -39,12 +38,10 @@ I am using a NAS via NFS as a datastore
 
 * [Change data directory to use another disk partition](https://github.com/nextcloud/nextcloud-snap/wiki/Change-data-directory-to-use-another-disk-partition)
 Even though I am not using the nextcloud snap, the information is still useful
-* [Setting Up NFS](https://help.ubuntu.com/community/SettingUpNFSHowTo)\
-I am using NFS instead of SMB mounts because it was just easier to setup 
-
-    `192.168.11.10:/Nextcloud  /media/nextcloud-data  nfs  rw  0  0`
-
-* [Mount Windows Shares Permanently](https://wiki.ubuntu.com/MountWindowsSharesPermanently)
+* [Setting Up NFS](https://help.ubuntu.com/community/SettingUpNFSHowTo)\\
+I am using NFS instead of SMB mounts because it was just easier to setup\\
+`192.168.11.10:/Nextcloud  /media/nextcloud-data  nfs  rw  0  0`
+* [Mount Windows Shares Permanently](https://wiki.ubuntu.com/MountWindowsSharesPermanently)\\
 Even not using it, it could be useful to know how it works.
 
 ## Background Jobs
@@ -60,9 +57,8 @@ I am using WebDAV to migrate data from the old way data was synced and stored to
 
 `net use Z: \\example.com@ssl\nextcloud\remote.php\dav /user:youruser yourpassword`
 
-* [File Operations](https://docs.nextcloud.com/server/13/admin_manual/configuration_server/occ_command.html#file-operations-label)
-You could also copy the files directly on the OS/filesystem layer and index them using nextcloud command line afterwards
-
+* [File Operations](https://docs.nextcloud.com/server/13/admin_manual/configuration_server/occ_command.html#file-operations-label)\\
+You could also copy the files directly on the OS/filesystem layer and index them using nextcloud command line afterwards\\
 `sudo -u www-data php occ files:scan --all`
 
 # House-Keeping
