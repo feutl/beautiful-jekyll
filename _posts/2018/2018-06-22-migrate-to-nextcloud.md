@@ -30,6 +30,7 @@ Ubuntu and Nextcloud
 * [How To Install and Configure Nextcloud on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-nextcloud-on-ubuntu-16-04)
 * [How to Install NextCloud Server on Ubuntu 16.04](https://www.youtube.com/watch?v=nXr_muYB6xI)
 * [Snappy Nextcloud](https://github.com/nextcloud/nextcloud-snap)
+
 This is not being used, because I needed to have the option to mount SMB/CIFS shares, and this is not supported with the nextcloud snap yet.
 
 # Configuration
@@ -41,7 +42,7 @@ Even though I am not using the nextcloud snap, the information is still useful
 * [Setting Up NFS](https://help.ubuntu.com/community/SettingUpNFSHowTo)
 I am using NFS instead of SMB mounts because it was just easier to setup 
 
-`192.168.11.10:/Nextcloud  /media/nextcloud-data  nfs  rw  0  0`
+    `192.168.11.10:/Nextcloud  /media/nextcloud-data  nfs  rw  0  0`
 
 * [Mount Windows Shares Permanently](https://wiki.ubuntu.com/MountWindowsSharesPermanently)
 Even not using it, it could be useful to know how it works.
