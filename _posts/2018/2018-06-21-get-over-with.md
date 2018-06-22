@@ -2,7 +2,7 @@
 layout: post
 title: Get over with ...
 date: 2018-06-21
-tags: [english, technology]
+tags: [english, personal, privacy]
 ---
 
 I spend quite some time the last few weeks moving some digital resources. The older I get, the more paranoid I get too, which leads to some very interesting developments. One of the things I wanted to get rid of, was dynamic websites. They need to be updated, not only content wise, but also the frameworks and software to avoid vulnerabilities and losing data.
