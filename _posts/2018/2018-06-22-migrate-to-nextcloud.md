@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrate to Nextcloud
-description: Take Control Over Your Digital Life
+subtitle: Take Control Over Your Digital Life
 date: 2018-06-22
 tags: [english, technology, nextcloud, privacy]
 bigimg: /img/2018/htop-nextcloud-standby.png
