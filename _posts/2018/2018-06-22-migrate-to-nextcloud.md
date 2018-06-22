@@ -82,6 +82,16 @@ It makes sense to use a firewall to secure hosted services as well as your netwo
 * [Barracuda CloudGen Firewall](https://www.barracuda.com/products/nextgenfirewall_f)
 * [OPNsense](https://opnsense.org/)
 
+## Backup
+Nothing to add here
+
+* [Nextcloud 13 backup and restore](https://www.c-rieger.de/nextcloud-backup-and-restore/)
+** Turn maintenance mode on: `sudo -u www-data php /var/www/nextcloud/occ maintenance:mode --on`
+** Backup the webfolder: `tar -cpzf /home/ubuntuusername/ncserver_`date +"%w"`.tar.gz -C /var/www/nextcloud .`
+** Backup the datafolder: `tar -cpzf /home/ubuntuusername/ncdata_`date +"%w"`.tar.gz -C /var/nc_data .`
+** Backup the database: `mysqldump --single-transaction -h localhost -unextcloud -pnextcloud nextcloud > /home/ubuntuusername/ncdb_`date +"%w"`.sql`
+** Turn maintenance mode off: `sudo -u www-data php /var/www/nextcloud/occ maintenance:mode --off`
+
 # Useful
 ## Command Line
 * [Using Nextcloud’s command line](https://www.c-rieger.de/using-nextclouds-command-line/#eins)
