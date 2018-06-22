@@ -39,7 +39,7 @@ I am using a NAS via NFS as a datastore
 
 * [Change data directory to use another disk partition](https://github.com/nextcloud/nextcloud-snap/wiki/Change-data-directory-to-use-another-disk-partition)
 Even though I am not using the nextcloud snap, the information is still useful
-* [Setting Up NFS](https://help.ubuntu.com/community/SettingUpNFSHowTo)
+* [Setting Up NFS](https://help.ubuntu.com/community/SettingUpNFSHowTo)\
 I am using NFS instead of SMB mounts because it was just easier to setup 
 
     `192.168.11.10:/Nextcloud  /media/nextcloud-data  nfs  rw  0  0`
