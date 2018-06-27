@@ -24,6 +24,7 @@ navbar-links:
   Herbert Feutl:
     - About Me: "https://www.feutl.com#about"
     - Contact Me: "https://www.feutl.com#contact"
+    - Datenschutzerklärung: "dsgvo"
   Tag Index: "tags"
   Search: "search"
 
