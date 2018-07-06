@@ -17,7 +17,7 @@ Setting the expiration time on the HSTS header to zero should immediatly make it
 ```
 
 # Chrome
-1. In the address bar, type “chrome://net-internals/#hsts”.
+1. In the address bar, type `chrome://net-internals/#hsts`
 2. Type the domain name in the text field below “Delete domain”.
 3. Click the “Delete” button.
 4. Type the domain name in the text field below “Query domain”.
@@ -33,12 +33,12 @@ Setting the expiration time on the HSTS header to zero should immediatly make it
    * Keep in mind that this will clear all data of the site present in Firefox.
 
 ### Advanced Method
-* Find file SiteSecurityServiceState.txt typically located in C:\Users\username\AppData\Roaming\Mozilla\Firefox\Profiles\ 
+* Find file SiteSecurityServiceState.txt typically located in `C:\Users\username\AppData\Roaming\Mozilla\Firefox\Profiles\`
 * Edit the file and delete the line that starts with "yourdomain.com".
 
 # Safari
 1. Quit Safari.
-2. Delete the file ~/Library/Cookies/HSTS.plist.
+2. Delete the file `~/Library/Cookies/HSTS.plist.`
 3. Reopen Safari.
 
 # Internet Explorer / Edge
@@ -48,7 +48,7 @@ Microsoft uses preload lists for HSTS which results in the known behavior
 > Site developers can use HSTS policies to secure connections by opting in to an HSTS preload list, which registers websites to be hardcoded by Microsoft Edge, Internet Explorer, and other browsers to redirect HTTP traffic to HTTPS. Communications with these websites from the initial connection are automatically upgraded to be secure. Like other browsers which have implemented this feature, Microsoft Edge and Internet Explorer 11 base their preload list on the Chromium HSTS preload list.
  
 While disabling HSTS altogether is NOT recommended, doing so temporarily may be helpful for testing:
-https://support.microsoft.com/en-us/help/3071338/internet-explorer-11-adds-support-for-http-strict-transport-security-standard
+[Internet Explorer 11 adds support for HTTP Strict Transport Security standard](https://support.microsoft.com/en-us/help/3071338/internet-explorer-11-adds-support-for-http-strict-transport-security-standard)
 
 ### For x64-based systems
 1. Click Start, click Run, type regedit, and then click OK.
@@ -73,7 +73,7 @@ https://support.microsoft.com/en-us/help/3071338/internet-explorer-11-adds-suppo
 18. Exit Registry Editor.
 
 # General HSTS Information
-* [https://www.troyhunt.com/understanding-http-strict-transport/](Understanding HTTP Strict Transport Security and preloading it into the browser)
-* [https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet](HTTP Strict Transport Security Cheat Sheet)
-* [https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security](HTTP Strict Transport Security)
-* [https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/](HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7)
+* [Understanding HTTP Strict Transport Security and preloading it into the browser](https://www.troyhunt.com/understanding-http-strict-transport/)
+* [HTTP Strict Transport Security Cheat Sheet](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security_Cheat_Sheet)
+* [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
+* [HTTP Strict Transport Security comes to Internet Explorer 11 on Windows 8.1 and Windows 7](https://blogs.windows.com/msedgedev/2015/06/09/http-strict-transport-security-comes-to-internet-explorer-11-on-windows-8-1-and-windows-7/)
