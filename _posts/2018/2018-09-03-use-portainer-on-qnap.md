@@ -27,8 +27,10 @@ Portainer needs to talk to the Container Station docker implementation, this is 
 4. Upload the files to your NAS. Use the *File Station* or any available share
 5. Login to the NAS via SSH using the *admin* user
 6. Create the directory by execute ```mkdir -pv ~/.docker```
-7. Copy the files from the share/folder to this directory ```cp /yourfolderwithfiles/ ~/.docker/```
-8. After this execute ```export DOCKER_HOST=tcp://192.168.1.10:2376 DOCKER_TLS_VERIFY=1```
+7. Copy the files from the share/folder to this directory
+    ```cp /yourfolderwithfiles/ ~/.docker/```
+8. After this execute
+   ```export DOCKER_HOST=tcp://192.168.1.10:2376 DOCKER_TLS_VERIFY=1```
 
 This is also described on the *Docker Certificate* site, slightly different but you should get the idea and the process.
 
@@ -37,7 +39,7 @@ Adding the Container Station as an endpoint took some time to figure out, but it
 
 1. Choose *Docker environment* or *Remote Docker*
 2. Define a name
-3. The endpoint URL is the one from the EXPORT command, like ```192.168.1.10`:2376``` with the port included
+3. The endpoint URL is the one from the EXPORT command, like ```192.168.1.10:2376``` with the port included
 4. Keep the public IP empty
 5. Turn on TLS and choose *TLS with server and client certificate*
 6. Now we need the certificates stored on the computer to be uploaded. Choose the files as stated below
