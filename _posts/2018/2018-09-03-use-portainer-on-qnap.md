@@ -26,10 +26,14 @@ Portainer needs to talk to the Container Station docker implementation, this is 
 3. Use an appropriate tool to unzip it.
 4. Upload the files to your NAS. Use the *File Station* or any available share
 5. Login to the NAS via SSH using the *admin* user
-6. Create the directory by execute ```mkdir -pv ~/.docker```
+6. Create the directory by execute
+
+    ```mkdir -pv ~/.docker```
 7. Copy the files from the share/folder to this directory
+    
     ```cp /yourfolderwithfiles/ ~/.docker/```
-8. After this execute
+8.  After this execute
+  
    ```export DOCKER_HOST=tcp://192.168.1.10:2376 DOCKER_TLS_VERIFY=1```
 
 This is also described on the *Docker Certificate* site, slightly different but you should get the idea and the process.
