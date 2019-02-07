@@ -2,7 +2,7 @@
 layout: post
 title: Firehol Integration für die Barracuda CloudGen Firewall
 date: 2019-02-02
-tags: [german, technology, barracuda]
+tags: [deutsch, technology, barracuda]
 bigimg: /img/2019/2019-02-02-firewall-history.png
 ---
 
